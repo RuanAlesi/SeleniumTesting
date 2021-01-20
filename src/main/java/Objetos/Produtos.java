@@ -1,6 +1,8 @@
 package Objetos;
 
 public class Produtos {
+	private String teste;
+	
 	public static String CocaLata() {
 		return "product-0";
 	}
